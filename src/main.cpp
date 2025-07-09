@@ -19,7 +19,7 @@
 #include <ArduinoJson.h>
 #include <NTPClient.h>
 #include <WiFiUdp.h>
-
+//test
 ESP_AI esp_ai;
 
 // 引脚定义
